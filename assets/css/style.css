@@ -29,13 +29,13 @@ h1, h2, h3, h4, h5, h6 {
 
 .text-adjust {
   font-size: 18px;
-  text-align: justify;
+  /* text-align: justify; */
 }
 
 .text-adjust-about {
   font-size: 18px;
   font-weight: 610;
-  text-align: justify;
+  /* text-align: justify; */
 }
 
 /*--------------------------------------------------------------
@@ -606,7 +606,7 @@ section {
 .resume .resume-item ul li {
   padding-bottom: 10px;
   font-size: 18px;
-  text-align: justify;
+  /* text-align: justify; */
 }
 
 .resume .resume-item:last-child {
