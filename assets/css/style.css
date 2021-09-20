@@ -28,12 +28,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .text-adjust {
-  font-size: 20px;
+  font-size: 18px;
   text-align: justify;
 }
 
 .text-adjust-about {
-  font-size: 21px;
+  font-size: 18px;
   font-weight: 610;
   text-align: justify;
 }
@@ -350,19 +350,19 @@ section {
 }
 
 .about .content ul strong {
-  font-size: 20px;
+  font-size: 18px;
   margin-right: 10px;
 }
 
 .about .content ul i {
-  font-size: 20px;
+  font-size: 18px;
   margin-right: 5px;
   color: #149ddd;
   line-height: 0;
 }
 
 .about .content ul span {
-  font-size: 20px;
+  font-size: 18px;
 }
 
 .about .content p:last-child {
@@ -505,6 +505,7 @@ section {
 .skills .title a {
   color: #111;
   transition: 0.3s;
+  font-size: 20px;
 }
 
 .skills .description {
